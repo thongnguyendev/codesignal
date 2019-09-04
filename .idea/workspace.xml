@@ -11,10 +11,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/arcade/intro/throughthefog/stringsRearrangement.py">
+        <entry file="file://$PROJECT_DIR$/arcade/intro/divingdeeper/arrayMaxConsecutiveSum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -69,6 +69,10 @@
         <option value="$PROJECT_DIR$/arcade/intro/throughthefog/depositProfit.py" />
         <option value="$PROJECT_DIR$/arcade/intro/throughthefog/absoluteValuesSumMinimization.py" />
         <option value="$PROJECT_DIR$/arcade/intro/throughthefog/stringsRearrangement.py" />
+        <option value="$PROJECT_DIR$/arcade/intro/divingdeeper/extractEachKth.py" />
+        <option value="$PROJECT_DIR$/arcade/intro/divingdeeper/firstDigit.py" />
+        <option value="$PROJECT_DIR$/arcade/intro/divingdeeper/differentSymbolsNaive.py" />
+        <option value="$PROJECT_DIR$/arcade/intro/divingdeeper/arrayMaxConsecutiveSum.py" />
       </list>
     </option>
   </component>
@@ -108,7 +112,7 @@
               <item name="codesignal" type="462c0819:PsiDirectoryNode" />
               <item name="arcade" type="462c0819:PsiDirectoryNode" />
               <item name="intro" type="462c0819:PsiDirectoryNode" />
-              <item name="throughthefog" type="462c0819:PsiDirectoryNode" />
+              <item name="divingdeeper" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -436,8 +440,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/arcade/intro/throughthefog/stringsRearrangement.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="270">
+          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/intro/divingdeeper/extractEachKth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/intro/divingdeeper/differentSymbolsNaive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/intro/divingdeeper/firstDigit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/intro/divingdeeper/arrayMaxConsecutiveSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
