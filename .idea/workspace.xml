@@ -11,10 +11,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/arcade/intro/rainbowofclarity/deleteDigit.py">
+        <entry file="file://$PROJECT_DIR$/arcade/intro/landoflogic/sudoku.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -34,15 +34,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/arcade/intro/thejourneybegins/centuryFromYear.py" />
-        <option value="$PROJECT_DIR$/arcade/intro/thejourneybegins/checkPalindrome.py" />
-        <option value="$PROJECT_DIR$/arcade/intro/edgeoftheocean/adjacentElementsProduct.py" />
-        <option value="$PROJECT_DIR$/arcade/intro/edgeoftheocean/shapeArea.py" />
-        <option value="$PROJECT_DIR$/arcade/intro/edgeoftheocean/makeArrayConsecutive2.py" />
-        <option value="$PROJECT_DIR$/arcade/intro/edgeoftheocean/almostIncreasingSequence.py" />
-        <option value="$PROJECT_DIR$/arcade/intro/edgeoftheocean/matrixElementsSum.py" />
-        <option value="$PROJECT_DIR$/arcade/intro/smoothsailing/allLongestStrings.py" />
-        <option value="$PROJECT_DIR$/arcade/intro/smoothsailing/commonCharacterCount.py" />
         <option value="$PROJECT_DIR$/arcade/intro/smoothsailing/isLucky.py" />
         <option value="$PROJECT_DIR$/arcade/intro/smoothsailing/sortByHeight.py" />
         <option value="$PROJECT_DIR$/arcade/intro/smoothsailing/reverseInParentheses.py" />
@@ -85,6 +76,15 @@
         <option value="$PROJECT_DIR$/arcade/intro/rainbowofclarity/lineEncoding.py" />
         <option value="$PROJECT_DIR$/arcade/intro/rainbowofclarity/chessKnight.py" />
         <option value="$PROJECT_DIR$/arcade/intro/rainbowofclarity/deleteDigit.py" />
+        <option value="$PROJECT_DIR$/arcade/intro/landoflogic/longestWord.py" />
+        <option value="$PROJECT_DIR$/arcade/intro/landoflogic/validTime.py" />
+        <option value="$PROJECT_DIR$/arcade/intro/landoflogic/sumUpNumbers.py" />
+        <option value="$PROJECT_DIR$/arcade/intro/landoflogic/differentSquares.py" />
+        <option value="$PROJECT_DIR$/arcade/intro/landoflogic/digitsProduct.py" />
+        <option value="$PROJECT_DIR$/arcade/intro/landoflogic/fileNaming.py" />
+        <option value="$PROJECT_DIR$/arcade/intro/landoflogic/messageFromBinaryCode.py" />
+        <option value="$PROJECT_DIR$/arcade/intro/landoflogic/spiralNumbers.py" />
+        <option value="$PROJECT_DIR$/arcade/intro/landoflogic/sudoku.py" />
       </list>
     </option>
   </component>
@@ -124,7 +124,7 @@
               <item name="codesignal" type="462c0819:PsiDirectoryNode" />
               <item name="arcade" type="462c0819:PsiDirectoryNode" />
               <item name="intro" type="462c0819:PsiDirectoryNode" />
-              <item name="rainbowofclarity" type="462c0819:PsiDirectoryNode" />
+              <item name="landoflogic" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -209,69 +209,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/arcade/intro/thejourneybegins/checkPalindrome.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/intro/edgeoftheocean/adjacentElementsProduct.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/intro/edgeoftheocean/shapeArea.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/intro/edgeoftheocean/makeArrayConsecutive2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/intro/edgeoftheocean/almostIncreasingSequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/intro/edgeoftheocean/matrixElementsSum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/intro/smoothsailing/allLongestStrings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/intro/smoothsailing/commonCharacterCount.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/intro/smoothsailing/isLucky.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/arcade/intro/smoothsailing/sortByHeight.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -566,6 +503,69 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/intro/landoflogic/longestWord.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/intro/landoflogic/validTime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/intro/landoflogic/sumUpNumbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/intro/landoflogic/differentSquares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/intro/landoflogic/digitsProduct.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/intro/landoflogic/fileNaming.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/intro/landoflogic/messageFromBinaryCode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/intro/landoflogic/spiralNumbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/intro/landoflogic/sudoku.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
