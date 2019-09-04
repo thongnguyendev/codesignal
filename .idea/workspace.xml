@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca617f5f-22db-4089-822d-3da4f508519a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="ca617f5f-22db-4089-822d-3da4f508519a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,17 +9,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/arcade/intro/islandofknowledge/minesweeper.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -62,6 +50,11 @@
         <option value="$PROJECT_DIR$/arcade/intro/islandofknowledge/avoidObstacles.py" />
         <option value="$PROJECT_DIR$/arcade/intro/islandofknowledge/boxBlur.py" />
         <option value="$PROJECT_DIR$/arcade/intro/islandofknowledge/minesweeper.py" />
+        <option value="$PROJECT_DIR$/arcade/intro/rainsofreason/arrayReplace.py" />
+        <option value="$PROJECT_DIR$/arcade/intro/rainsofreason/evenDigitsOnly.py" />
+        <option value="$PROJECT_DIR$/arcade/intro/rainsofreason/variableName.py" />
+        <option value="$PROJECT_DIR$/arcade/intro/rainsofreason/alphabeticShift.py" />
+        <option value="$PROJECT_DIR$/arcade/intro/rainsofreason/chessBoardCellColor.py" />
       </list>
     </option>
   </component>
@@ -101,7 +94,7 @@
               <item name="codesignal" type="462c0819:PsiDirectoryNode" />
               <item name="arcade" type="462c0819:PsiDirectoryNode" />
               <item name="intro" type="462c0819:PsiDirectoryNode" />
-              <item name="islandofknowledge" type="462c0819:PsiDirectoryNode" />
+              <item name="rainsofreason" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -164,7 +157,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
@@ -361,6 +353,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/intro/rainsofreason/arrayReplace.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/intro/rainsofreason/evenDigitsOnly.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/intro/rainsofreason/variableName.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/intro/rainsofreason/alphabeticShift.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/intro/rainsofreason/chessBoardCellColor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
