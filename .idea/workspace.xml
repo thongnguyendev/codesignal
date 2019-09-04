@@ -11,10 +11,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/arcade/intro/divingdeeper/arrayMaxConsecutiveSum.py">
+        <entry file="file://$PROJECT_DIR$/arcade/intro/darkwilderness/bishopAndPawn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="45">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -73,6 +73,11 @@
         <option value="$PROJECT_DIR$/arcade/intro/divingdeeper/firstDigit.py" />
         <option value="$PROJECT_DIR$/arcade/intro/divingdeeper/differentSymbolsNaive.py" />
         <option value="$PROJECT_DIR$/arcade/intro/divingdeeper/arrayMaxConsecutiveSum.py" />
+        <option value="$PROJECT_DIR$/arcade/intro/darkwilderness/growingPlant.py" />
+        <option value="$PROJECT_DIR$/arcade/intro/darkwilderness/knapsackLight.py" />
+        <option value="$PROJECT_DIR$/arcade/intro/darkwilderness/longestDigitsPrefix.py" />
+        <option value="$PROJECT_DIR$/arcade/intro/darkwilderness/digitDegree.py" />
+        <option value="$PROJECT_DIR$/arcade/intro/darkwilderness/bishopAndPawn.py" />
       </list>
     </option>
   </component>
@@ -112,7 +117,7 @@
               <item name="codesignal" type="462c0819:PsiDirectoryNode" />
               <item name="arcade" type="462c0819:PsiDirectoryNode" />
               <item name="intro" type="462c0819:PsiDirectoryNode" />
-              <item name="divingdeeper" type="462c0819:PsiDirectoryNode" />
+              <item name="darkwilderness" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -470,6 +475,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/intro/darkwilderness/growingPlant.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/intro/darkwilderness/knapsackLight.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/intro/darkwilderness/longestDigitsPrefix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/intro/darkwilderness/digitDegree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/intro/darkwilderness/bishopAndPawn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
